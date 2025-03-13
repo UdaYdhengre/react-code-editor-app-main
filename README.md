@@ -1,4 +1,4 @@
-# react-code-editor-app-main
+# react-code-editor-app-master
 
 Create a real-time collaborative code editor.
 Support multiple programming languages using WebAssembly.
