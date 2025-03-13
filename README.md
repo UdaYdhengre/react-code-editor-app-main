@@ -1,10 +1,17 @@
-#FOLLOW THIS FORM UDAY DHENGRE GITHUB LINK:react-code-editor-app-main
+# react-code-editor-app-master
+
+Create a real-time collaborative code editor.
+Support multiple programming languages using WebAssembly.
+Implement live preview for HTML, CSS, and JavaScript. Add version control using GitHub API integration.
+
+Tech Stack: React.js, Monaco Editor, Node.js,
+WebAssembly
 
 npm install
 
 # start the dev server
-
 npm run dev
+
 ## Run Locally
 
 ```bash
@@ -12,7 +19,4 @@ npm run dev
 
 npm install
 
-# start the dev server
 
-npm run dev
-```
